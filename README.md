@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ishichi
+- 👋 Hi, I’m Ishika
 - 🪼 I’m interested in Data sci,Mlops field 
 - 🌱 I’m currently learning Python,Machine pearning 
   
