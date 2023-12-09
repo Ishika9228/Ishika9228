@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishika9228
+- 👋 Hi, I’m Ishichi
 - 🪼 I’m interested in Data sci,Mlops field 
 - 🌱 I’m currently learning Python,Machine pearning 
   
